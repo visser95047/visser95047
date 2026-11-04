@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="910" viewBox="0 0 1600 910" role="img">
-<rect width="1600" height="910" fill="#2D033B"/>
-<rect x="48" y="36" width="1504" height="584" rx="18" fill="#4A044E"/>
-<rect x="48" y="36" width="14" height="584" rx="7" fill="#F9A8D4"/>
-<text x="96" y="108" fill="#FDF4FF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">A Quiet, Serious Offer</text>
-<rect x="96" y="180" width="80" height="5" rx="2" fill="#F9A8D4"/>
-<text x="96" y="232" fill="#FDF4FF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">We run a small software and AI practice with paying clients and live</text>
-<text x="96" y="280" fill="#FDF4FF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">products. We are adding one engineer on a part-time, remote, paid basis,</text>
-<text x="96" y="328" fill="#FDF4FF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">from $5,000 a month. If you want steady work without noise, this is</text>
-<text x="96" y="376" fill="#FDF4FF" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">that.</text>
-<text x="96" y="438" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Steady work, low noise</text>
-<text x="96" y="482" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Part-time, remote, paid</text>
-<text x="96" y="526" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Live products, paying clients</text>
-<rect x="389" y="656" width="822" height="264" rx="30" fill="#4A044E" fill-opacity="0.55"/>
-<rect x="423" y="682" width="754" height="132" rx="66" fill="#F9A8D4"/>
-<rect x="429" y="688" width="742" height="120" rx="60" fill="none" stroke="#2D033B" stroke-opacity="0.22" stroke-width="2"/>
-<text x="800" y="740" fill="#2D033B" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Click here to see the offer</text>
-<text x="800" y="780" fill="#2D033B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" text-anchor="middle">dataannotation.vercel.app</text>
-<text x="800" y="866" fill="#F0ABFC" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" text-anchor="middle">click anywhere on this card to open it</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="906" viewBox="0 0 1600 906" role="img">
+<rect width="1600" height="906" fill="#0B132B"/>
+<rect x="48" y="36" width="1504" height="580" rx="18" fill="#1C2541"/>
+<rect x="48" y="36" width="14" height="580" rx="7" fill="#5BC0BE"/>
+<text x="96" y="108" fill="#E8F1F2" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">Open To Anyone Reliable</text>
+<rect x="96" y="180" width="80" height="5" rx="2" fill="#5BC0BE"/>
+<text x="96" y="232" fill="#E8F1F2" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Reliability over titles</text>
+<text x="96" y="280" fill="#E8F1F2" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Part-time, remote</text>
+<text x="96" y="328" fill="#E8F1F2" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">From $5,000 / month</text>
+<text x="96" y="390" fill="#9DB4C0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We are a small team, and we are recruiting reliable people, not titles.</text>
+<text x="96" y="434" fill="#9DB4C0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Part-time, remote tasks across AI training, development, graphics and</text>
+<text x="96" y="478" fill="#9DB4C0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">translation.</text>
+<text x="96" y="522" fill="#9DB4C0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Show up, do good work, and there is $5,000 or more a month in it for the</text>
+<rect x="323" y="652" width="954" height="264" rx="30" fill="#1C2541" fill-opacity="0.55"/>
+<rect x="357" y="678" width="886" height="132" rx="66" fill="#5BC0BE"/>
+<rect x="363" y="684" width="874" height="120" rx="60" fill="none" stroke="#0B132B" stroke-opacity="0.22" stroke-width="2"/>
+<text x="800" y="736" fill="#0B132B" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle">See the offer or start onboarding</text>
+<text x="800" y="776" fill="#0B132B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" text-anchor="middle">dataannotation.vercel.app</text>
+<text x="800" y="862" fill="#9DB4C0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="500" text-anchor="middle">click anywhere on this card to start</text>
 </svg>
