@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="552" viewBox="0 0 1600 552" role="img">
-<rect width="1600" height="552" fill="#FCE7F3"/>
-<rect x="48" y="36" width="1504" height="480" rx="18" fill="#FFF1F6"/>
-<rect x="48" y="36" width="14" height="480" rx="7" fill="#9D174D"/>
-<text x="96" y="108" fill="#831843" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">Production AI, open for partners</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="596" viewBox="0 0 1600 596" role="img">
+<rect width="1600" height="596" fill="#FCE7F3"/>
+<rect x="48" y="36" width="1504" height="524" rx="18" fill="#FFF1F6"/>
+<rect x="48" y="36" width="14" height="524" rx="7" fill="#9D174D"/>
+<text x="96" y="108" fill="#831843" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" text-anchor="start">Room to grow</text>
 <rect x="96" y="180" width="80" height="5" rx="2" fill="#9D174D"/>
-<text x="96" y="232" fill="#831843" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Open for Partners</text>
-<text x="96" y="294" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We are open for partners: software, AI, production work.</text>
-<text x="96" y="338" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">If we click, the collaboration should pay off for both of us.</text>
-<text x="96" y="382" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We can share $5,000 or more monthly for help that stays lightweight.</text>
-<text x="96" y="456" fill="#9D174D" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="start">kaicolab.vercel.app/visser95047</text>
-<g transform="translate(64,502)"><g fill="#9D174D"><rect x="0.0" y="0.0" width="10.3" height="10.3" /><rect x="22.7" y="0.0" width="10.3" height="10.3" /><rect x="0.0" y="22.7" width="10.3" height="10.3" /><rect x="22.7" y="22.7" width="10.3" height="10.3" /></g></g>
-<text x="110" y="526" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="22">@visser95047</text>
+<text x="96" y="232" fill="#831843" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" text-anchor="start">Join The Work</text>
+<text x="96" y="294" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">We build software and AI products, end to end, and we are short one</text>
+<text x="96" y="338" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">engineer.</text>
+<text x="96" y="382" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Part-time, remote, paid monthly — with room to grow into more.</text>
+<text x="96" y="426" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" text-anchor="start">Tell us what you are good at and we will find the right piece of the</text>
+<text x="96" y="500" fill="#9D174D" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="start">kaicolab.vercel.app/visser95047</text>
+<g transform="translate(64,546)"><g fill="#9D174D"><rect x="0.0" y="0.0" width="10.3" height="10.3" /><rect x="22.7" y="0.0" width="10.3" height="10.3" /><rect x="0.0" y="22.7" width="10.3" height="10.3" /><rect x="22.7" y="22.7" width="10.3" height="10.3" /></g></g>
+<text x="110" y="570" fill="#BE185D" font-family="Arial, Helvetica, sans-serif" font-size="22">@visser95047</text>
 </svg>
