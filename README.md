@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dataannotation.vercel.app/visser95047/?go=02cfa61a4bb0efe1">
-  <img src="readme/card.svg?v=1793836450" alt="" width="1600" />
+  <img src="https://raw.githubusercontent.com/visser95047/visser95047/main/readme/card.png?v=1793841548" alt="Collaboration offer — long-term AI and software work" width="1600" />
 </a>
 
 </div>
